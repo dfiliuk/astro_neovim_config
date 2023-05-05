@@ -6,4 +6,6 @@ return {
 
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.php" },
+  { import = "astrocommunity.editing-support.auto-save-nvim" },
+  { import = "astrocommunity.colorscheme.tokyonight" },
 }
